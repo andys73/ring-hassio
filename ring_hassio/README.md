@@ -1,8 +1,6 @@
 # ring-hassio
-[![Support the author on Patreon][patreon-shield]][patreon]
 ## About
 A Home Assistant add-on to enable live streams of Ring Cameras.
-This add-on wraps around [Dgreif's excellent work](https://github.com/dgreif/ring) and exposes a livestream.
 
 ## Installation
 1. Add this GitHub repository to your add-on store. 
@@ -51,10 +49,8 @@ A workaround to start/stop streaming (and avoid quick discharge) in Hassio is to
 To do this:
 
 # ring-hassio
-[![Support the author on Patreon][patreon-shield]][patreon]
 ## About
 A Home Assistant add-on to enable live streams of Ring Cameras.
-This add-on wraps around [Dgreif's excellent work](https://github.com/dgreif/ring) and exposes a livestream.
 
 > **DOT NOT run this add-on with 24-hour streaming - use this addon by starting it on-demand**
 
