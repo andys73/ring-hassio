@@ -1,11 +1,9 @@
 # ring-hassio
-[![Support the author on Patreon][patreon-shield]][patreon]
 ## Archived
 This repo has been archived - please consider forking to continue development.
 
 ## About
 A Home Assistant add-on to enable live streams of Ring Cameras.
-This add-on wraps around [Dgreif's excellent work](https://github.com/dgreif/ring) and exposes a livestream.
 
 > **DOT NOT run this add-on with 24-hour streaming - use this addon by starting it on-demand**
 
